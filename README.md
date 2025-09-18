@@ -36,13 +36,3 @@ Este proyecto es una aplicación web interactiva para realizar un **sorteo de "A
 # Clonar el repositorio
 git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
 
-   
-
-
-
-
-
-
-
-
-
