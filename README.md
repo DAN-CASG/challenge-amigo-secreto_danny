@@ -30,7 +30,8 @@ Permite:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
+
 
 
 
