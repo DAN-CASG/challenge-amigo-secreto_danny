@@ -18,9 +18,9 @@ Permite:
 ---
 
 ## 🛠️ Tecnologías utilizadas  
-- **HTML5** → estructura de la página.  
-- **CSS3** → estilos responsivos y diseño moderno.  
-- **JavaScript (ES6)** → lógica de la aplicación (agregar amigos, mostrar lista y sortear).  
+- **HTML** → estructura de la página.  
+- **CSS** → estilos responsivos y diseño moderno.  
+- **JavaScript** → lógica de la aplicación (agregar amigos, mostrar lista y sortear).  
 
 ---
 
@@ -29,3 +29,4 @@ Permite:
 1. Clona este repositorio:  
    ```bash
    git clone https://github.com/tuusuario/amigo-secreto.git
+
