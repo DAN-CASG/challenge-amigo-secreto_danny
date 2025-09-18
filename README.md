@@ -2,6 +2,11 @@
 
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">  
 
+<p align="center">
+  <img src="assets/amigo-secreto.png" alt="Portada Amigo Secreto" width="400"/>
+</p>
+
+
 ## 📌 Descripción  
 Este proyecto es una aplicación web interactiva para realizar un **sorteo de "Amigo Secreto"**.  
 
@@ -35,4 +40,5 @@ Este proyecto es una aplicación web interactiva para realizar un **sorteo de "A
 ```bash
 # Clonar el repositorio
 git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
+
 
