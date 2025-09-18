@@ -1,6 +1,6 @@
 # 🎉 Proyecto: Amigo Secreto  
 
-<img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green">  
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">  
 <img src="https://img.shields.io/badge/JavaScript-ES6-yellow">  
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">  
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">  
@@ -29,4 +29,5 @@ Permite:
 1. Clona este repositorio:  
    ```bash
    git clone https://github.com/tuusuario/amigo-secreto.git
+
 
