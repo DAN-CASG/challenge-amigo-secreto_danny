@@ -10,27 +10,41 @@
 ## 📌 Descripción  
 Este proyecto es una aplicación web interactiva para realizar un **sorteo de "Amigo Secreto"**.  
 
-Permite:  
-- Agregar nombres a una lista.  
-- Visualizar los amigos añadidos en tiempo real.  
-- Sortear un amigo secreto de forma aleatoria.  
-- Mostrar el resultado al usuario de manera clara y sencilla.  
+# 🎁 Challenge Amigo Secreto
+
+✨ **Funcionalidades**
+
+1. Agregar nombres de participantes
+2. Validar que no haya vacíos
+3. Mostrar la lista actualizada en pantalla
+4. Sortear un amigo secreto aleatoriamente   
 
 ---
 
-## 🛠️ Tecnologías utilizadas  
-- **HTML** → estructura de la página.  
-- **CSS** → estilos responsivos y diseño moderno.  
-- **JavaScript** → lógica de la aplicación (agregar amigos, mostrar lista y sortear).  
+🛠️ **Tecnologías Utilizadas**
+
+- **HTML5** → Estructura de la página  
+- **CSS3** → Estilos y diseño responsivo  
+- **JavaScript** → Lógica del sorteo y validaciones  
 
 ---
 
-## 🚀 Cómo usarlo  
+🚀 **Cómo usar**
 
-1. Clona este repositorio:
+1. **Agregar nombres**: escribe un nombre y presiona **"Adicionar"**.  
+2. **Hacer sorteo**: haz clic en **"Sortear amigo"** (necesitas mínimo 1 nombre).  
+3. **Ver resultado**: aparecerá el amigo secreto sorteado.  
 
-   ```bash
-   git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
+---
+
+📦 **Instalación**
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
+
+   
+
 
 
 
