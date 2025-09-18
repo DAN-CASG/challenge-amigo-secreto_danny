@@ -10,8 +10,6 @@
 ## 📌 Descripción  
 Este proyecto es una aplicación web interactiva para realizar un **sorteo de "Amigo Secreto"**.  
 
-# 🎁 Challenge Amigo Secreto
-
 ✨ **Funcionalidades**
 
 1. Agregar nombres de participantes
@@ -44,6 +42,7 @@ Este proyecto es una aplicación web interactiva para realizar un **sorteo de "A
 git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
 
    
+
 
 
 
