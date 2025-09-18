@@ -1,11 +1,6 @@
 # Proyecto: Amigo Secreto  
 
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">  
-<img src="https://img.shields.io/badge/JavaScript-ES6-yellow">  
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">  
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">  
-
----
 
 ## 📌 Descripción  
 Este proyecto es una aplicación web interactiva para realizar un **sorteo de "Amigo Secreto"**.  
@@ -21,9 +16,9 @@ Este proyecto es una aplicación web interactiva para realizar un **sorteo de "A
 
 🛠️ **Tecnologías Utilizadas**
 
-- **HTML5** → Estructura de la página  
-- **CSS3** → Estilos y diseño responsivo  
-- **JavaScript** → Lógica del sorteo y validaciones  
+<img src="https://img.shields.io/badge/JavaScript-ES6-yellow">  → Estructura de la página  
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">  → Estilos y diseño responsivo  
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">  → Lógica del sorteo y validaciones  
 
 ---
 
@@ -42,6 +37,7 @@ Este proyecto es una aplicación web interactiva para realizar un **sorteo de "A
 git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
 
    
+
 
 
 
