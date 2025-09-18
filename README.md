@@ -9,6 +9,7 @@
 
 ## 📌 Descripción  
 Este proyecto es una aplicación web interactiva para realizar un **sorteo de "Amigo Secreto"**.  
+
 Permite:  
 - Agregar nombres a una lista.  
 - Visualizar los amigos añadidos en tiempo real.  
@@ -30,6 +31,7 @@ Permite:
 
    ```bash
    git clone https://github.com/tuusuario/amigo-secreto.git
+
 
 
 
