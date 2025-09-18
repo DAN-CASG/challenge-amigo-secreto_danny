@@ -1,4 +1,4 @@
-# 🎉 Proyecto: Amigo Secreto  
+# Proyecto: Amigo Secreto  
 
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">  
 <img src="https://img.shields.io/badge/JavaScript-ES6-yellow">  
@@ -26,8 +26,10 @@ Permite:
 
 ## 🚀 Cómo usarlo  
 
-1. Clona este repositorio:  
+1. Clona este repositorio:
+
    ```bash
    git clone https://github.com/tuusuario/amigo-secreto.git
+
 
 
