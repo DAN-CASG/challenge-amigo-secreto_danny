@@ -15,7 +15,7 @@ Este proyecto es una aplicación web interactiva para realizar un **sorteo de "A
 1. Agregar nombres de participantes
 2. Validar que no haya vacíos
 3. Mostrar la lista actualizada en pantalla
-4. Sortear un amigo secreto aleatoriamente   
+4. Elegir un amigo secreto aleatoriamente   
 
 ---
 
@@ -42,6 +42,7 @@ Este proyecto es una aplicación web interactiva para realizar un **sorteo de "A
 git clone https://github.com/DAN-CASG/challenge-amigo-secreto_danny.git
 
    
+
 
 
 
